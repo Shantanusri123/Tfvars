@@ -1,2 +1,2 @@
-bucket_name="circleci-sample-s3-bucket"
+bucket_name="circleci-dev-s3-bucket"
 acl_value="private"
